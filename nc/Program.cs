@@ -34,7 +34,6 @@ namespace nc
                 catch (Exception)
                 {
                     Console.WriteLine("Failed editing hosts file");
-                    throw;
                 }
             }
 
@@ -56,6 +55,7 @@ namespace nc
                     }
                 }
             }
+
             Console.ReadLine();
         }
     }

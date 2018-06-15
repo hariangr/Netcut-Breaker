@@ -1,5 +1,6 @@
+C:\Users\haria\Desktop\idk\nc\nc\obj\Debug\nc.exe
+C:\Users\haria\Desktop\idk\nc\nc\obj\Debug\nc.pdb
+C:\Users\haria\Desktop\idk\nc\nc\obj\Debug\nc.csprojResolveAssemblyReference.cache
 C:\Users\haria\Desktop\idk\nc\nc\bin\Debug\nc.exe.config
 C:\Users\haria\Desktop\idk\nc\nc\bin\Debug\nc.exe
 C:\Users\haria\Desktop\idk\nc\nc\bin\Debug\nc.pdb
-C:\Users\haria\Desktop\idk\nc\nc\obj\Debug\nc.exe
-C:\Users\haria\Desktop\idk\nc\nc\obj\Debug\nc.pdb
